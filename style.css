@@ -1,0 +1,69 @@
+
+body {background-color: darkblue;}
+
+header{
+    background-image :linear-gradient(to right ,rgb(1, 7, 36), rgb(43, 159, 236), white);
+}
+
+
+.nav-details {
+    background-color: white;
+}
+
+.nav-link {
+background-color: aquamarine;
+display: inline;
+text-align: center;
+border-radius: 15px;
+}
+
+.nav-link:hover{
+    font-size: 10px;
+    background-color: rgb(147, 216, 130);
+    color: white;
+}
+
+.album{
+    background-color: black;
+}
+
+.fw-light{
+    font-size: 30px;
+   
+    color: rgb(31, 6, 6);
+    text-shadow: rgb(11,230,11) 0.1em 0.1em 0.2em
+    
+
+}
+
+.fw-light:hover{
+    font-size: 20px;
+    color: rgb(253, 253, 255);
+}
+
+div.col.md-12{
+    background-color: darkslategrey;
+}
+
+a.btn{
+    background-color: darkblue;
+}
+
+div.container{
+    box:shadow 10px;
+    border-radius: 15px;
+   background-color: blanchedalmond;
+}
+
+div.album{ background-image :linear-gradient(to bottom ,rgb(1, 7, 36), rgb(43, 159, 236), white);
+}
+
+p.text{
+    text-align: center;
+    color: blue;
+}
+
+p.mb-0{text-align: center;
+    color: blue;}
+
+footer{background-color: black;}
